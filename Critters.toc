@@ -1,0 +1,7 @@
+## Interface: 30300
+## Title: Critters
+## Notes: Big animated crit popups,An engaging and cool crit streak (similar to combo streaks in other games like Batman and shit) permanent best-crit numbers and an account-wide best crit list. Options: /critters or /crit
+## Author:Adriftiano(ADRIFT)
+## Version: 1.0
+## SavedVariables: CrittersDB, BigDamDB
+Critters.lua
